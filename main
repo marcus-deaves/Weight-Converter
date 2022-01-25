@@ -41,5 +41,3 @@ def choice():
 
 
 choice()
-
-print("hellow world")
